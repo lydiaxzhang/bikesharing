@@ -52,7 +52,7 @@ Following this, a number of other visualizations provide the user an idea of the
 ![](images/bike_use.png)
 
 ## Summary
-The complete visualization for the NYC Citi Bike Program can be found [here] (https://public.tableau.com/profile/lydia.zhang8767#!/vizhome/NYCCitiBikeProgramAugust2019/NYCCitiBike).
+The complete visualization for the NYC Citi Bike Program can be found [here](https://public.tableau.com/profile/lydia.zhang8767#!/vizhome/NYCCitiBikeProgramAugust2019/NYCCitiBike).
 
 In summary, these visualizations helped to determine that:
 * A total of 2,344,224 rides took place in August 2019 in NYC through the Citi Bike Program.
